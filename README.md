@@ -15,4 +15,4 @@ Feature-vectors are uniformly scattered across 0-1 D-dimensional hyper-cube.
 `target_gold` represents ground truth labels,
 `target_noisy_<C>` represent corrupted labels with noise approximately equal to value C.
 
-The source code is coming soon. 
+The source code is coming soon... 
