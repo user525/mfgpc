@@ -3,7 +3,7 @@ Multi-fidelity Gaussian Process Classification
 
 Current repository contains artifitial datasets for binary classification problem. 
 
-Each dataset contains 5000 entries is stored in a csv file with the following fields:
+Each dataset contains 5000 entries, they are stored in a csv file with the following fields:
 
 `feature_1`, ..., `feature_D`, `target_gold`, `target_noisy_0.0`, ..., `target_noisy_0.5`
 
