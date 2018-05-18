@@ -13,6 +13,6 @@ There are 10 datasets for each value of D.
 All features are real-valued in range [0, 1]. 
 Feature-vectors are uniformly scattered across 0-1 D-dimensional hyper-cube.
 `target_gold` represents ground truth labels,
-`target_noisy_<C>` represent corrupted labels with noise approximately equal to value C.
+`target_noisy_<c>` represent corrupted labels with noise approximately equal to value <c>.
 
 The source code is coming soon... 
