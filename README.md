@@ -15,4 +15,7 @@ Feature-vectors are uniformly scattered across 0-1 D-dimensional hyper-cube.
 `target_gold` represents ground truth labels,
 `target_noisy_<c>` represent corrupted labels with noise approximately equal to value <c>.
 
-The source code is coming soon... 
+
+Model for Multi-fidelity Gaussian Process Classifier is implemented based on Scikit-learn Gaussian Process Classifier in mfgpc_opt.py module.
+
+To allow reproducibility of experiments jupyter notebooks have also been published.
